@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.snack-card {
+  background-color: navy;
+  color: rgb(255, 255, 189);
+  padding: 20px;
+  margin: 20px;
+  width: 500px;
+  border-radius: 50px;
+}
+
+ul {
+  list-style: none;
+}
+
+nav {
+  background-color: pink;
+  border-radius: 50px;
+  padding: 20px;
+}
+
+h1 {
+  background-color: lightgreen;
+  border-radius: 50px;
+  padding: 20px;
+  color: navy;
+}
+
+
+.single-snack {
+  background-color: lavender;
+  color: navy;
+  border-radius: 50px;
+  color: darkorchid;
+  padding: 20px;
+  margin: 20px;
+}
