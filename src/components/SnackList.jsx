@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import { fetchSnacks } from "../utils/api";
+import { fetchSnacks } from "../../utils/api";
 import SnackCard from "./SnackCard";
 
 function SnackList() { 

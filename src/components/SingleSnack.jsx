@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react"
-import { fetchSnackById } from "../utils/api";
+import { fetchSnackById } from "../../utils/api";
 
 function SingleSnack() { 
     const { snack_id } = useParams()
